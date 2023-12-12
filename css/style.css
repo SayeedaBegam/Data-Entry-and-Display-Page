@@ -1,0 +1,37 @@
+.title{
+	font-size:30px;
+		color:#D104BB;
+	}
+	.main{
+		width:60%;
+		padding:auto;
+		margin:auto;
+	}
+	.h20{
+		height:20px;
+	}
+	.h10{
+		height:10px;
+	}
+	.desc{
+		position:relative;
+		top:6px;
+	}
+
+input[type="text"]{
+	
+	border:1px solid #000;	
+}
+input[type="password"]{
+	
+	border:1px solid #000;	
+}
+button[type="button"]{
+	background-color: #665564  ;
+	border:1px solid #000;	
+}
+input:focus { 
+    background-color: #665564  ;
+	color:#fff;
+	border:1px dotted #000;
+}
